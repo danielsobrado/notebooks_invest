@@ -1,9 +1,6 @@
 import requests
 import json
 
-from finnhub.exceptions import FinnhubAPIException
-from finnhub.exceptions import FinnhubRequestException
-
 class Client:
     API_URL = "https://finnhub.io/api/v1"
 
@@ -353,3 +350,30 @@ class Client:
         return self._get("/etf/country", data = {"symbol": symbol})
         
         
+class FinnhubAPIException(Exception):
+    def __init__(self, response):
+        self.code = 0
+
+        try:
+            json_response = response.json()
+        except ValueError:
+            self.message = "JSON error message from Finnhub: {}".format(response.text)
+        else:
+            if "error" not in json_response:
+                self.message = "Wrong json format from FinnhubAPI"
+            else:
+                self.message = json_response["error"]
+
+        self.status_code = response.status_code
+        self.response = response
+
+    def __str__(self):
+        return "FinnhubAPIException(status_code: {}): {}".format(self.status_code, self.message)
+
+
+class FinnhubRequestException(Exception):
+    def __init__(self, message):
+        self.message = message
+
+    def __str__(self):
+        return "FinnhubRequestException: {}".format(self.message)
