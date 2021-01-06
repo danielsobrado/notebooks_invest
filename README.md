@@ -24,6 +24,8 @@ Install it via pip with:
 
 ``$ pip install secedgar``
 
+## Constituents
+
 ## Indicators
 
 ## Strategies
