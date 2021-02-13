@@ -68,4 +68,16 @@ Install it via pip with:
 
 ## Interesting Repos
 
+* Compilation of resources Quant Machine Learning: [Awesome Quant Machine Learning Trading](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading)
+* Compilation of resources Deep Learning Trading: [Awesome Deep Trading](https://github.com/cbailes/awesome-deep-trading)
+* Reinforcement Learning for trading: [FinRL: A Deep Reinforcement Learning Library for Quantitative Finance](https://github.com/AI4Finance-LLC/FinRL-Library)
+
 ## Interesting Links
+
+### Portfolio Optimization
+
+Portfolio Allocation backtesting and simulations:
+
+* Portfolio Charts: https://portfoliocharts.com/portfolios/
+* Portfolio Visulizer: https://www.portfoliovisualizer.com/
+* Backtest: https://backtest.curvo.eu/
