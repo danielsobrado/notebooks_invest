@@ -60,8 +60,9 @@ The script I used to acquire all of these .csv files can be found in this [GitHu
 ### Webs
 
 * [Sec Api](https://sec-api.io/)
+    * Sample Notebook: 
 * [Insider Monitor](https://www.insider-monitor.com/)
-
+    * Sample Notebook: 
 
 ### SEC filing types: 
 
