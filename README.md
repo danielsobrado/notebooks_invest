@@ -44,6 +44,13 @@ The script I used to acquire all of these .csv files can be found in this [GitHu
 
 [Historical stock data for all current S&P 500 companies] (https://www.kaggle.com/camnugent/sandp500) The data from The Investor's Exchange api.
 
+#### Data Scrapping
+
+* [FinViz](https://finviz.com/)
+    * Scrap with: [FinViz Finance](https://github.com/lit26/finvizfinance)
+        * ``pip install finvizfinance``
+        * Sample Notebook: 
+
 ## Statistics
 
 ## Sentiment
