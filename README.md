@@ -244,8 +244,15 @@ Install it via pip with:
 
 ## Interesting Repos
 
+### Compilations
 * Compilation of resources Quant Machine Learning: [Awesome Quant Machine Learning Trading](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading)
 * Compilation of resources Deep Learning Trading: [Awesome Deep Trading](https://github.com/cbailes/awesome-deep-trading)
+
+### Visualization
+* Visual analysis of financial data: [Matplotlib Finance](https://github.com/matplotlib/mplfinance)
+``pip install --upgrade mplfinance``
+
+### Machine Learning
 * Reinforcement Learning for trading: [FinRL: A Deep Reinforcement Learning Library for Quantitative Finance](https://github.com/AI4Finance-LLC/FinRL-Library)
 
 ## Interesting Links
