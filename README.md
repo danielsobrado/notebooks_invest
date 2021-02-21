@@ -262,5 +262,22 @@ Install it via pip with:
 Portfolio Allocation backtesting and simulations:
 
 * Portfolio Charts: https://portfoliocharts.com/portfolios/
-* Portfolio Visulizer: https://www.portfoliovisualizer.com/
+* Portfolio Visualizer: https://www.portfoliovisualizer.com/
 * Backtest: https://backtest.curvo.eu/
+
+## Disclaimer
+Before using this software, be sure to understand and follow the terms of all data providers. I am not responsible for how you use this software, so please be responsible in your use of it! Please see the following links for some information:
+
+  - [Quandl TOS](http://help.quandl.com/category/133-terms-and-conditions)
+  - [Google Finance TOS](https://www.google.com/intl/en/googlefinance/disclaimer)
+  - [Yahoo Finance TOS](https://policies.yahoo.com/us/en/yahoo/terms/utos/index.htm)
+
+For further information, please seek legal counsel.
+
+## License (GNU AGPLv3)
+
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU Affero General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Affero General Public License for more details.
+
+You should have received a copy of the GNU Affero General Public License along with this program. If not, see http://www.gnu.org/licenses/.
