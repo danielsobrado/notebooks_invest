@@ -257,6 +257,8 @@ Install it via pip with:
 
 ## Interesting Links
 
+* Gary Antonacci’s Dual Momentum Explained: [Dual Momentum](https://engineeredportfolio.com/2018/05/02/accelerating-dual-momentum-investing/) 
+
 ### Portfolio Optimization
 
 Portfolio Allocation backtesting and simulations:
