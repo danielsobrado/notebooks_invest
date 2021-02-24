@@ -252,6 +252,9 @@ Install it via pip with:
 * Visual analysis of financial data: [Matplotlib Finance](https://github.com/matplotlib/mplfinance)
 ``pip install --upgrade mplfinance``
 
+### Data 
+* Postgres based DB to capture and store data: [pySecMaster](https://github.com/camisatx/pySecMaster)
+
 ### Machine Learning
 * Reinforcement Learning for trading: [FinRL: A Deep Reinforcement Learning Library for Quantitative Finance](https://github.com/AI4Finance-LLC/FinRL-Library)
 
