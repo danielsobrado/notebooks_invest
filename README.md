@@ -270,6 +270,16 @@ Portfolio Allocation backtesting and simulations:
 * Portfolio Visualizer: https://www.portfoliovisualizer.com/
 * Backtest: https://backtest.curvo.eu/
 
+### Blogs
+
+Great blogs and aggregators to follow:
+
+* [Quantdare](https://quantdare.com/) 
+* [Quantocracy](https://quantocracy.com/)
+* [Alpha Architect](https://alphaarchitect.com/)
+* [Milton Financial Market Research Institute](https://miltonfmr.com/)
+
+
 ## Disclaimer
 Before using this software, be sure to understand and follow the terms of all data providers. I am not responsible for how you use this software, so please be responsible in your use of it! Please see the following links for some information:
 
