@@ -236,6 +236,8 @@ Install it via pip with:
 
 ## Constituents
 
+* Scrape ETF holdings:[etf4u](https://github.com/leoncvlt/etf4u)
+
 ## Indicators
 
 ## Strategies
