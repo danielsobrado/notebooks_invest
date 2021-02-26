@@ -278,7 +278,8 @@ Great blogs and aggregators to follow:
 * [Quantocracy](https://quantocracy.com/)
 * [Alpha Architect](https://alphaarchitect.com/)
 * [Milton Financial Market Research Institute](https://miltonfmr.com/)
-
+* [Cesar Alvarez](https://alvarezquanttrading.com
+    * The [Barometer](https://alvarezquanttrading.com/market-barometer/) is interesting.
 
 ## Disclaimer
 Before using this software, be sure to understand and follow the terms of all data providers. I am not responsible for how you use this software, so please be responsible in your use of it! Please see the following links for some information:
