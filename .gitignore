@@ -4,3 +4,5 @@
 **/Data/**/*_data.csv
 ignore
 credentials/credentials.yml
+*.lock
+*.dirlock
