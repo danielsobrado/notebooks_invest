@@ -2,3 +2,4 @@
 *.bak
 **/Data/**/*.txt
 **/Data/**/*_data.csv
+*.txt
