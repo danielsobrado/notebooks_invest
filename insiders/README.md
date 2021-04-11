@@ -1,5 +1,9 @@
 # Insiders
 
+An insider is a director, senior officer, entity, or individual that owns more than 10% of a publicly traded company's voting shares. In the United States, the Securities and Exchange Commission (SEC) has enacted stringent rules to prevent insiders from engaging in insider trading.
+
+One of the most famous investors of all time, Peter Lynch, said  "insiders might sell their shares for any number of reasons, but they buy them for only one: they think the price will rise."
+
 ## Webs
 
 * [Sec Api](https://sec-api.io/)
