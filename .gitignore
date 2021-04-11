@@ -4,3 +4,5 @@
 **/Data/**/*_data.csv
 *.txt
 *.pyc
+*.Identifier
+data/margin_statistics/data/~$margin-statistics.xlsx

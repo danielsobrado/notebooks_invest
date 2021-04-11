@@ -66,6 +66,10 @@ The script I used to acquire all of these .csv files can be found in this [GitHu
         * ``pip install finvizfinance``
         * Sample Notebook: 
 
+### FINRA Margin Statistics
+
+* [Margin Statistics] https://www.finra.org/investors/learn-to-invest/advanced-investing/margin-statistics
+
 ## Statistics
 
 ## Seasonality
@@ -82,6 +86,7 @@ The script I used to acquire all of these .csv files can be found in this [GitHu
 
 One of the most famous investors of all time, Peter Lynch, said  "insiders might sell their shares for any number of reasons, but they buy them for only one: they think the price will rise."
 
+**See**: [Insiders]  (https://github.com/danielsobrado/notebooks_invest/tree/master/insiders)
 
 ### Webs
 
