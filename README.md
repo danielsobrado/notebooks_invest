@@ -140,6 +140,9 @@ Install it via pip with:
 ``jupyter nbextension install --sys-prefix --py vega``</br>
 ``jupyter nbextension enable vega --py --sys-prefix``</br>
 ``jupyter labextension install @jupyterlab/vega5-extension``</br>
+* Plotly: [Plotly] (https://pypi.org/project/plotly/)
+``pip install plotly==4.14.3``</br>
+``pip install "notebook>=5.3" "ipywidgets>=7.5"``
 
 ### Data 
 * Postgres based DB to capture and store data: [pySecMaster](https://github.com/camisatx/pySecMaster)
