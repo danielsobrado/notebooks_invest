@@ -1,6 +1,16 @@
 # Stock Market Notebooks
 
+The objective of this repo is to analyze historical market data to gain insights that you can only get by doing your own experiments.
+
+You should research them by analyzing historical data in order to have in-depth knowledge about the market.
+
+Know how the market works by looking into the data from multiple angles, don't trust blindly other people's analysis and charts, do your own homework.
+
 ## Data Sources
+
+Data is key. Having good sources of data is a challenge, and also very important. 
+
+We'll use free data sources in these repositories, but you'll be able to extrapolate the analysis, to other commercial data, if required.
 
 ### Investpy
 
@@ -11,6 +21,8 @@ Install it via pip with a Python3.5 version or higher:
 ``$ pip install investpy``
 
 ### Kaggle
+
+Kaggle is one amazing source of datasets, very dynamic and with a thriving community.
 
 #### Huge Stock Market Dataset
 
@@ -57,6 +69,12 @@ The script I used to acquire all of these .csv files can be found in this [GitHu
 ## Statistics
 
 ## Seasonality
+
+### Day of the week
+* Sample Notebook:
+
+### Month of the year
+* Sample Notebook:
 
 ## Sentiment
 
@@ -245,9 +263,21 @@ Install it via pip with:
 
 ## Indicators
 
+### Moving averages
+* Sample Notebook:
+
+### RSI
+* Sample Notebook:
+
+### MACD
+* Sample Notebook:
+
 ## Strategies
 
 ### Buy & Hold
+* Sample Notebook:
+
+### Sector Rebalancing
 
 ## Interesting Repos
 
@@ -256,8 +286,14 @@ Install it via pip with:
 * Compilation of resources Deep Learning Trading: [Awesome Deep Trading](https://github.com/cbailes/awesome-deep-trading)
 
 ### Visualization
-* Visual analysis of financial data: [Matplotlib Finance](https://github.com/matplotlib/mplfinance)
+* Visual analysis of financial data: [Matplotlib Finance](https://github.com/matplotlib/mplfinance)</br>
 ``pip install --upgrade mplfinance``
+* Altair and Vega: [Altair] (https://altair-viz.github.io/)</br>
+``pip install altair_viewer``</br>
+``conda install vega``</br>
+``jupyter nbextension install --sys-prefix --py vega``</br>
+``jupyter nbextension enable vega --py --sys-prefix``</br>
+``jupyter labextension install @jupyterlab/vega5-extension``</br>
 
 ### Data 
 * Postgres based DB to capture and store data: [pySecMaster](https://github.com/camisatx/pySecMaster)
