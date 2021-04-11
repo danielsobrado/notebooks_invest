@@ -44,7 +44,10 @@ The script I used to acquire all of these .csv files can be found in this [GitHu
 
 [Historical stock data for all current S&P 500 companies] (https://www.kaggle.com/camnugent/sandp500) The data from The Investor's Exchange api.
 
-#### Data Scrapping
+### Stooq
+[Stooq](https://stooq.com/db/h/)  Daily	Hourly and 5 Minutes data for multiple markets (World, U.S., U.K., Japan, Hong Kong, Germany, Poland, Hungary and some Macroeconomy indicators).
+
+### Data Scrapping
 
 * [FinViz](https://finviz.com/)
     * Scrap with: [FinViz Finance](https://github.com/lit26/finvizfinance)
@@ -52,6 +55,8 @@ The script I used to acquire all of these .csv files can be found in this [GitHu
         * Sample Notebook: 
 
 ## Statistics
+
+## Seasonality
 
 ## Sentiment
 
