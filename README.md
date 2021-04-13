@@ -66,6 +66,12 @@ The script I used to acquire all of these .csv files can be found in this [GitHu
         * ``pip install finvizfinance``
         * Sample Notebook: 
 
+### Shiller
+
+Data used in the book: *Irrational Exuberance* [Princeton University Press 2000, Broadway Books 2001, 2nd ed., 2005]
+
+[Online DATA ROBERT SHILLER](http://www.econ.yale.edu/~shiller/data.htm) This data set consists of monthly stock price, dividends, and earnings data and the consumer price index (to allow conversion to real values), all starting January 1871. 
+
 ### FINRA Margin Statistics
 
 * [Margin Statistics] https://www.finra.org/investors/learn-to-invest/advanced-investing/margin-statistics
