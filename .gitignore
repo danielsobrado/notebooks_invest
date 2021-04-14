@@ -3,9 +3,9 @@
 **/Data/**/*.txt
 **/data/**/*.txt
 **/Data/**/*_data.csv
-**/insiders/data/sec-edgar-filings/*.xml
 data/margin_statistics/data/~$margin-statistics.xlsx
 *.txt
 *.pyc
 *.Identifier
 *.zip
+insiders/data/sec-edgar-filings/**/*.xml
