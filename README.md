@@ -109,6 +109,14 @@ Install it via pip with:
 
 ``$ pip install secedgar``
 
+### SEC Edgar Downloader 
+
+[sec-edgar-downloader](pip install -U sec-edgar-downloader) is a Python package for downloading company filings from the SEC EDGAR database. Searches can be conducted either by stock ticker or Central Index Key (CIK).
+
+Install it via pip with:
+
+``$ pip install -U sec-edgar-downloader``
+
 ## Constituents
 
 * Scrape ETF holdings:[etf4u](https://github.com/leoncvlt/etf4u)
