@@ -1,8 +1,11 @@
 .ipynb_checkpoints
 *.bak
 **/Data/**/*.txt
+**/data/**/*.txt
 **/Data/**/*_data.csv
+**/insiders/data/sec-edgar-filings/*.xml
+data/margin_statistics/data/~$margin-statistics.xlsx
 *.txt
 *.pyc
 *.Identifier
-data/margin_statistics/data/~$margin-statistics.xlsx
+*.zip
