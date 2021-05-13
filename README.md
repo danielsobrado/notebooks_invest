@@ -132,6 +132,12 @@ Install it via pip with:
 ### MACD
 * Sample Notebook:
 
+### Demark Sequential
+* Sample Notebook:
+References:
+* Example from: [finplot](https://github.com/highfestiva/finplot/blob/master/finplot/examples/bfx.py)
+* Example from: 
+
 ## Strategies
 
 ### Buy & Hold
@@ -148,6 +154,8 @@ Install it via pip with:
 ### Visualization
 * Visual analysis of financial data: [Matplotlib Finance](https://github.com/matplotlib/mplfinance)</br>
 ``pip install --upgrade mplfinance``
+* [Finance Plotter] (https://github.com/highfestiva/finplot)
+``pip install finplot``
 * Altair and Vega: [Altair] (https://altair-viz.github.io/)</br>
 ``pip install altair_viewer``</br>
 ``conda install vega``</br>
