@@ -132,11 +132,13 @@ Install it via pip with:
 ### MACD
 * Sample Notebook:
 
-### Demark Sequential
+### Demark TD Sequential
 * Sample Notebook:
 References:
 * Example from: [finplot](https://github.com/highfestiva/finplot/blob/master/finplot/examples/bfx.py)
-* Example from: 
+* Example from: [AdhamAlHarazi](https://github.com/AdhamAlHarazi/StockMarketAlgos/blob/master/Demark%20Indicators%20Tested.py)
+See: https://github.com/txjohnny5/Tom-Demark-Indicator/blob/master/TD_plotter.py
+Study on TD Sequential and improvements: [cloudquant](https://info.cloudquant.com/2017/08/improving-td-bear-flip/)
 
 ## Strategies
 
@@ -171,6 +173,7 @@ References:
 
 ### Machine Learning
 * Reinforcement Learning for trading: [FinRL: A Deep Reinforcement Learning Library for Quantitative Finance](https://github.com/AI4Finance-LLC/FinRL-Library)
+* MlFinlab: [MlFinlab](https://github.com/hudson-and-thames/mlfinlab)
 
 ## Interesting Links
 
