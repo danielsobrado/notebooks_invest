@@ -59,12 +59,16 @@ The script I used to acquire all of these .csv files can be found in this [GitHu
 ### Stooq
 [Stooq](https://stooq.com/db/h/)  Daily	Hourly and 5 Minutes data for multiple markets (World, U.S., U.K., Japan, Hong Kong, Germany, Poland, Hungary and some Macroeconomy indicators).
 
+### Paid services with free allowance
+* [Polygon](https://polygon.io/)
+
 ### Data Scrapping
 
 * [FinViz](https://finviz.com/)
     * Scrap with: [FinViz Finance](https://github.com/lit26/finvizfinance)
         * ``pip install finvizfinance``
         * Sample Notebook: 
+* [Graph Fundamentals] (http://graphfundamentals.com/) Free forever, they claim the source is the SEC fillings, I can see that the quality is not great, probably because of inconsistencies in the format of the fillings.
 
 ### Shiller
 
