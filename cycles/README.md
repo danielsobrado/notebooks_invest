@@ -8,4 +8,4 @@ Steps to start the notebooks with a conda environment:
 
 Blog articles:
 
-**Benner Cycle: ** [Article on Benner Cycles](https://investphere.com/the-benner-cycle/)
+*Benner Cycle: * [Article on Benner Cycles](https://investphere.com/the-benner-cycle/)
