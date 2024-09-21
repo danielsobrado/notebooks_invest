@@ -9,3 +9,4 @@ data/margin_statistics/data/~$margin-statistics.xlsx
 *.Identifier
 *.zip
 insiders/data/sec-edgar-filings/**/*.xml
+data/edgar/sec_data/
