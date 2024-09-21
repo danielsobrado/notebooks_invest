@@ -11,3 +11,4 @@ data/margin_statistics/data/~$margin-statistics.xlsx
 insiders/data/sec-edgar-filings/**/*.xml
 data/edgar/sec_data/
 data/tiingo/data/
+data/edgar/fundamentals/
