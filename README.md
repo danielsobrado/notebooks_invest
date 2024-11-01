@@ -42,6 +42,10 @@ Source: [Finnhub - Filings](https://finnhub.io/docs/api#filings)
 
 [SEC Filings 1994-2020](https://www.kaggle.com/finnhub/sec-filings)  The data is cleaned and sourced directly from SEC filings from 1994-2020.
 
+### Senators Disclosure
+
+* [Senate EFD Search](https://efdsearch.senate.gov/search/)
+
 #### S&P 500 futures tick data (SP)
 
 Source: [Finnhub](https://finnhub.io/)
