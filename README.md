@@ -98,6 +98,13 @@ One of the most famous investors of all time, Peter Lynch, said  "insiders might
 
 **See**: [Insiders]  (https://github.com/danielsobrado/notebooks_invest/tree/master/insiders)
 
+### Insider Websites
+- [Insider Monkey](https://www.insidermonkey.com/)
+- [Insider Screener](https://www.insiderscreener.com/en/)
+- [Insider Tracking](https://www.insidertracking.com/)
+- [Open Insider](http://openinsider.com/)
+- [Senate Stock Watcher](https://senatestockwatcher.com/)
+
 ### Webs
 
 * [Sec Api](https://sec-api.io/)
