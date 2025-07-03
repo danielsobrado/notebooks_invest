@@ -6,6 +6,83 @@ You should research them by analyzing historical data in order to have in-depth 
 
 Know how the market works by looking into the data from multiple angles, don't trust blindly other people's analysis and charts, do your own homework.
 
+## Setup and Installation
+
+### Prerequisites
+- Python 3.8 or higher
+- [uv](https://docs.astral.sh/uv/) package manager (recommended)
+
+### Quick Start with uv (Recommended)
+
+Install uv if you haven't already:
+```bash
+# On Windows
+powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
+
+# On macOS and Linux
+curl -LsSf https://astral.sh/uv/install.sh | sh
+```
+
+Clone and setup the project:
+```bash
+git clone https://github.com/danielsobrado/notebooks_invest.git
+cd notebooks_invest
+
+# Create virtual environment and install dependencies
+uv venv
+uv pip install -r requirements.txt
+
+# Activate virtual environment
+# On Windows:
+.venv\Scripts\activate
+# On macOS/Linux:
+source .venv/bin/activate
+
+# Start Jupyter
+jupyter notebook
+```
+
+### Alternative Installation Methods
+
+#### Using pip
+```bash
+pip install -r requirements.txt
+```
+
+#### Using pyproject.toml (for development)
+```bash
+# Install with optional development dependencies
+uv pip install -e ".[dev]"
+
+# Or with extra optional dependencies
+uv pip install -e ".[extra]"
+```
+
+### Development Setup
+For contributors, install development dependencies:
+```bash
+uv pip install -e ".[dev]"
+```
+
+This includes:
+- `black` for code formatting
+- `flake8` for linting  
+- `pytest` for testing
+
+### Dependency Management
+This project uses both `requirements.txt` and `pyproject.toml`:
+- `requirements.txt` - For basic dependency management and compatibility
+- `pyproject.toml` - Modern Python packaging standard with development dependencies
+
+To update dependencies:
+```bash
+# Using uv (recommended)
+uv pip compile --upgrade requirements.txt
+
+# Generate requirements.txt from pyproject.toml
+uv pip compile pyproject.toml -o requirements.txt
+```
+
 ## Data Sources
 
 Data is key. Having good sources of data is a challenge, and also very important. 
