@@ -184,7 +184,7 @@ One of the most famous investors of all time, Peter Lynch, said  "insiders might
 - [Insider Screener](https://www.insiderscreener.com/en/)
 - [Insider Tracking](https://www.insidertracking.com/)
 - [Open Insider](http://openinsider.com/)
-- [Senate Stock Watcher](https://senatestockwatcher.com/)
+- [Congress Stock Tracker, House and Senate](https://alphayou.net/politicians)
 
 ### Webs
 
